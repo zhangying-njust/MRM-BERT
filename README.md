@@ -3,9 +3,9 @@
 The code is the implementation of our method described in the paper “Ying Zhang , Fang Ge , Fuyi Li, Xibei Yang, Jiangning Song , and Dong-Jun Yu, Prediction of Multiple Types of RNA Modifications via Biological Language Model”.
 
 ## (1) Environment setup:
-reffer to https://github.com/jerryji1993/DNABERT#readme.
+refer to https://github.com/jerryji1993/DNABERT#readme.
 
-## (2) Download the the well-trained models of our method:
+## (2) Download the well-trained models of our method:
 code/main_Multi_predictio
 
 ## (3) For multi-sequence prediction:
